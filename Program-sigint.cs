@@ -11,6 +11,7 @@
 //
 // SIGINT で強制終了を追加
 // Yeah, watching code execute is mind-numbingly boring. Threw in some SIGINT catching so I can bail instantly with Ctrl+C. Way better.
+// Grok->Like Elon Musk would say.
 //
 
 using System;
